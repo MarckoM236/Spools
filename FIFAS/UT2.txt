@@ -1,0 +1,31 @@
+%!
+%%DocumentMedia:pagina1 612 792 90 white factura
+%%+ pagina2 612 792 90 white factura
+%%+ pagina4 612 792 90 white anexo
+%%EndComments
+(Transtel.jdt) STARTLM
+%%XGF(factura:white) SETMEDIA
+
+B99ÇUTÇ 00120254Ç 0712295ÇABRÇ2019
+BLA Ç    1Ç 02
+BLB Ç 06547574Ç26-ABR-2019Ç 0712295Ç 00120254ÇContrato
+BLC ÇMOLTA FAJARDO GUILLERMO LEON
+BLD ÇCALL 13   # 98   - 10    UN 1 AP 201Ç16-OCT-2018-Ç15-NOV-2018Ç08-MAY-2019Ç6092946
+BLE ÇMULTICENTRO
+BL8 ÇMayÇJunÇJulÇAgoÇSepÇOctÇPro
+BLF Ç        0Ç        0Ç        0Ç    .00Ç        0Ç 99Ç50-72Ç-----------Ç 00000Ç---Ç---
+BLG Ç      0Ç      0Ç      0Ç      0Ç      0Ç      0Ç      0Ç     142,800.00ÇRESIDENCIALÇ       05       
+BLH Ç     0Ç     0Ç     0Ç     0Ç     0Ç     0Ç     0ÇINTERNETÇAcceso Ilimitado
+BLI ÇULT. PAGO <01-11-2018>Ç      47,770.00
+BLI ÇCARGO INT <CG-25 S-54>Ç      40,000.00
+BLI ÇTOTAL  IVA Ç       7,600.00
+BLI ÇTOTAL ESTE RECIBO SERVI.Ç      47,600.00
+BLI ÇSALDO ANTERIOR Ç      95,200.00
+BLM Ç
+BLN ÇSERVICIO SUSPENDIDO. CANCELE Y EVITE REPORTE A DATACREDITO. TASA INTERES DE MORA:  2.21%
+BL7 ÇEFECTY CRA.100 No. 5-169 lOCAL 377 A
+BLP Ç 0006547574Ç 0712295ÇÇ08-MAY-2019Ç     142,800.00Ç 07646437ÇÇÇ-5
+BLQ Çª§IYf¤£)u¡p4 ,"V§G   .< §¡43%(f«Ç(415)7709998098596(8020)00120254(3900)0000142800(96)20190508
+BLX *071229500076464370000142800*
+BL0 Ç    2
+BL0 Ç    2
